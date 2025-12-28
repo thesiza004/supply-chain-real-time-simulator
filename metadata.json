@@ -1,0 +1,6 @@
+
+{
+  "name": "Supply Chain Real-Time Simulator",
+  "description": "A browser-based supply chain simulator that generates inventory data and publishes it in real-time to an MQTT broker (mqtt.cool) with live visualization.",
+  "requestFramePermissions": []
+}
